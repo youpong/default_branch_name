@@ -12,6 +12,5 @@ jobs:
           id
       - name: Substitute user
         run: |
-          sudo su -
-          whoami
-          id
+          sudo su - -c whoami
+          sudo su - -c id
