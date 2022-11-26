@@ -7,4 +7,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Who am I
-        run: whoami
+        run: |
+          whoami
+          id
