@@ -10,3 +10,8 @@ jobs:
         run: |
           whoami
           id
+      - name: Substitute user
+        run: |
+          sudo su -
+          whoami
+          id
