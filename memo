@@ -1,17 +1,21 @@
-            Current                 Next
-Ruby        3.1           21.12.25  3.2          22.12.25
-Perl        5.36          22.05.28  5.38 
-Python      3.11          22.11.27  3.12
-Go          1.19          22.08.02  1.20         23.02
-C++         C++20         20.12.15  C++23        23
-C           C17           18.06     C2x
-Java        Java SE 19    22.09     Java SE 20   23.03
-ECMAScript  13th Edition  22.06     14th Edtion  23
-Node.js     19            22.10.18  20           32.04.18
+                Current                 Next
+Ruby            3.1           21.12.25  3.2          22.12.25
+Perl            5.36          22.05.28  5.38 
+Python          3.11          22.11.27  3.12
+Go              1.19          22.08.02  1.20         23.02
+C++             C++20         20.12.15  C++23        23
+C               C17           18.06     C2x
+Java            Java SE 19    22.09     Java SE 20   23.03
+ECMAScript      13th Edition  22.06     14th Edtion  23
+TypeScirpt      4.9           22.11.15
 
+Node.js(C/C++)  19            22.10.18  20           23.04.18
+Deno(Rust)      1.28          22.11.13
+Bun(Zig)        0.2.2         22.10.17
+Rails           7.0           21.12.15  7.1
+Spring          6.0           22.11.16
 
-Rails       7.0           21.12.15  7.1
-Spring      6.0           22.11.16
+HTML            5.2           17.12.14  
+CSS
 
-Emacs       28.2          22.09
-
+Emacs           28.2          22.09
