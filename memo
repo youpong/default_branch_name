@@ -9,13 +9,36 @@ Java            Java SE 19    22.09     Java SE 20   23.03
 ECMAScript      13th Edition  22.06     14th Edtion  23
 TypeScirpt      4.9           22.11.15
 
-Node.js(C/C++)  19            22.10.18  20           23.04.18
-Deno(Rust)      1.28          22.11.13
-Bun(Zig)        0.2.2         22.10.17
 Rails           7.0           21.12.15  7.1
 Spring          6.0           22.11.16
+
+Node.js         19            22.10.18  20           23.04.18
+Deno            1.28          22.11.13
+Bun             0.2.2         22.10.17
 
 HTML            5.2           17.12.14  
 CSS
 
 Emacs           28.2          22.09
+
+                       Runtime         Asynchronous I/O           
+Node.js         C/C++  V8              Libuv
+Deno            Rust   V8              Tokio
+Bun             Zig    JavaScriptCore  kqueue(Mac)/iouring(Linux)
+
+library for building user interface
+React.js        18            22.03.29
+Vue.js          3.2           21.08.05
+
+Web application framework
+Next.js         13            22.10.26
+express.js      4.17          19.05.16
+
+CSS Framework
+Bootstrap       5.2           22.07.20
+
+Bundler
+Webpacker       5.75          22.11
+
+Transcompiler
+Babel           7.20          22.10.27
