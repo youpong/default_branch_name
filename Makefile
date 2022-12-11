@@ -1,7 +1,7 @@
 PROJECT = playground
 VERSION = 0.0.1
 
-TOPTARGETS := all clean check docs
+TOPTARGETS := all clean check format docs
 SUBDIRS := src
 .PHONY: $(TOPTARGETS) $(SUBDIRS)
 

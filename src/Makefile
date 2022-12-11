@@ -23,4 +23,4 @@ $(TARGET): $(OBJS)
 main.o:  util.h
 util.o:  util.h
 
-.PHONY: all check clean format
+.PHONY: all check clean format docs
