@@ -1,8 +1,7 @@
-## README.md
+# README.md
 
-check default branch name.
-modify something here.
+playground for github.
 
-1 one.
-2 two.
-3 three.
+* [API Docs](https://youpong.github.io/playground/docs/html)
+
+
