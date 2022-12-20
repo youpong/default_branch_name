@@ -1,4 +1,4 @@
-                Current                 Next
+                Current       rel.      Next         rel.
 Emacs           28.2          22.09
 
 HTML            5.2           17.12.14  
@@ -22,12 +22,12 @@ Deno            1.28          22.11.13
 Elsa            -
 Bun             0.3           22.12
 
-Rhino(Java)
-Nashorn(Java)
-GraalJS(Java) 
+Rhino(Java)     1.7.14        22.01.06  (3.5k start)
+Nashorn(Java)   15.4          22.04.27  ( 232 stars)
+GraalJS(Java)   22.3.0        22.10.25  (1.4k stars)
 V8(C/C++)       9.9           22.01.31              
-QuickJS
-JavaScriptCore
+QuickJS         
+JavaScriptCore  
 
                        Runtime         Asynchronous I/O           
 Node.js         C/C++  V8              Libuv
