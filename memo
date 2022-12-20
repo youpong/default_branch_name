@@ -1,4 +1,9 @@
                 Current                 Next
+Emacs           28.2          22.09
+
+HTML            5.2           17.12.14  
+CSS
+
 Ruby            3.1           21.12.25  3.2          22.12.25
 Perl            5.36          22.05.28  5.38 
 Python          3.11          22.11.27  3.12
@@ -12,18 +17,22 @@ TypeScirpt      4.9           22.11.15
 Rails           7.0           21.12.15  7.1
 Spring          6.0           22.11.16
 
-Node.js         19            22.10.18  20           23.04.18
+Node.js         19.3 Current  22.12.14  20 LTS       23.04.18
 Deno            1.28          22.11.13
-Bun             0.2.2         22.10.17
+Elsa            -
+Bun             0.3           22.12
 
-HTML            5.2           17.12.14  
-CSS
-
-Emacs           28.2          22.09
+Rhino(Java)
+Nashorn(Java)
+GraalJS(Java) 
+V8(C/C++)       9.9           22.01.31              
+QuickJS
+JavaScriptCore
 
                        Runtime         Asynchronous I/O           
 Node.js         C/C++  V8              Libuv
 Deno            Rust   V8              Tokio
+Elsa            go     QuickJS?
 Bun             Zig    JavaScriptCore  kqueue(Mac)/iouring(Linux)
 
 library for building user interface
@@ -31,6 +40,7 @@ React.js        18            22.03.29
 Vue.js          3.2           21.08.05
 
 Web application framework
+Electron.js     v21           22.09.26 
 Next.js         13            22.10.26
 express.js      4.17          19.05.16
 
@@ -42,3 +52,12 @@ Webpacker       5.75          22.11
 
 Transcompiler
 Babel           7.20          22.10.27
+---
+
+Windows10 Pro/Home extended support ended on 25.10.14
+Windows8.1 all ed. extended support ended on 23.01.10
+
+Windows10 Pro/Home 22H2  22.10.18  24.05.14
+Windows10 Pro/Home 21H2  21.11.16  23.06.13
+
+[Windows 10 Pro/Home life cycle](https://learn.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)
