@@ -38,6 +38,7 @@ Bun             Zig    JavaScriptCore  kqueue(Mac)/iouring(Linux)
 library for building user interface
 React.js        18            22.03.29
 Vue.js          3.2           21.08.05
+Vite.js         4.0.3         22.12.22
 
 Web application framework
 Electron.js     v21           22.09.26 
