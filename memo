@@ -20,7 +20,7 @@ Spring          6.0           22.11.16
 Node.js         19.3 Current  22.12.14  20 LTS       23.04.18
 Deno            1.28          22.11.13
 Elsa            -
-Bun             0.3           22.12
+Bun             0.4           22.12
 
 Rhino(Java)     1.7.14        22.01.06  (3.5k start)
 Nashorn(Java)   15.4          22.04.27  ( 232 stars)
@@ -53,6 +53,8 @@ Webpacker       5.75          22.11
 
 Transcompiler
 Babel           7.20          22.10.27
+
+Raspberry pi    4             19        5             24?
 ---
 
 Windows10 Pro/Home extended support ended on 25.10.14
@@ -62,3 +64,4 @@ Windows10 Pro/Home 22H2  22.10.18  24.05.14
 Windows10 Pro/Home 21H2  21.11.16  23.06.13
 
 [Windows 10 Pro/Home life cycle](https://learn.microsoft.com/ja-jp/lifecycle/products/windows-10-home-and-pro)
+---
