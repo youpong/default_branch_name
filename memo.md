@@ -1,18 +1,26 @@
                 Current       rel.      Next         rel.
 Emacs           28.2          22.09
 
-HTML            5.2           17.12.14  
+HTML            5.2           17.12.14
 CSS
 
-Ruby            3.1           21.12.25  3.2          22.12.25
-Perl            5.36          22.05.28  5.38 
-Python          3.11          22.11.27  3.12
-Go              1.19          22.08.02  1.20         23.02
-C++             C++20         20.12.15  C++23        23
-C               C17           18.06     C2x
-Java            Java SE 19    22.09     Java SE 20   23.03
+bash            5.2.15        22.12.13
+PHP             8.2.0         22.12.08
 ECMAScript      13th Edition  22.06     14th Edtion  23
 TypeScirpt      4.9           22.11.15
+Perl            5.36          22.05.28  5.38         23
+Python          3.11          22.11.27  3.12
+Ruby            3.2           22.12.25  3.3?         23.12.25
+Java            Java SE 19    22.09     Java SE 20   23.03
+Kotlin          1.8.0         22.12
+C               C17           18.06     C2x
+Zig             0.10.0        22.10
+C++             C++20         20.12.15  C++23        23
+Go              1.19          22.08.02  1.20         23.02
+Rust            1.66.0        22.12.15
+Erlang          25.1.2        22.10.24
+C#              11            22.11.08
+Swift           5.7.2         22.12.14
 
 Rails           7.0           21.12.15  7.1
 Spring          6.0           22.11.16
@@ -37,13 +45,13 @@ Bun             Zig    JavaScriptCore  kqueue(Mac)/iouring(Linux)
 
 library for building user interface
 React.js        18            22.03.29
-Vue.js          3.2           21.08.05
+Vue.js          3.2.45        22.11.11
 Vite.js         4.0.3         22.12.22
 
 Web application framework
 Electron.js     v21           22.09.26 
 Next.js         13            22.10.26
-express.js      4.17          19.05.16
+express.js      4.18.1        22.04.29
 
 CSS Framework
 Bootstrap       5.2           22.07.20
