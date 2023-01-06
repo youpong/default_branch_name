@@ -61,7 +61,9 @@ CSS
 * Kevin R. Fall, W. Richard Stevens. 2011. TCP/IP Illustrated Vol.1: The Protocols 2nd. Addison-Wesley
 * Gary R. Wright, W. Richard Stevens. 1995. TCP/IP Illustrated Vol.2: The Implementation. Addison-Wesley
 * W. Richard Stevens. 1996. TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the UNIX® Domain Protocols. Addison-Wesley
-* W. Richard Stevens, Stephen A. Rago. 2013. Advanced Programming in the UNIX Environment. Addison-Wesley
+
+# System programming
+* W. Richard Stevens, Stephen A. Rago. 2013. Advanced Programming in the UNIX Environment 3rd. Addison-Wesley
 
 # Computer Architecture
 * John L. Hennessy, David Patterson. 2017. Computer Architecture: A Quantitative Approach 6th. Morgan Kaufmann
